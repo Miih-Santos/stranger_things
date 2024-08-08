@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grey+Qo&display=swap');
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    background: linear-gradient(68.15deg, rgb(0, 0, 0) 16.84%, red 84.24% );
+}
+
+h1 {
+    font-family: 'Bebas neue';
+    color: white;
+    margin: 10px;
+    text-align: center;
+    font-size: 64px;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin: 0 30px;
+    text-align: center;
+    font-size: 22px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid white;
+}
+
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    margin: 0 30px;
+    text-align: center;
+    font-size: 22px;
+    padding-top: 30px;
+}
