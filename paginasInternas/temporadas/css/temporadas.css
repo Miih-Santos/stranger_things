@@ -9,7 +9,8 @@
 }
 
 body {
-    background: linear-gradient(68.15deg, rgb(0, 0, 0) 16.84%, red 84.24% );
+    background: linear-gradient(68.15deg, rgb(41, 0, 0) 16.84%, red 84.24% );
+    color: #ffff;
 }
 
 h1 {
@@ -37,4 +38,21 @@ h3 {
     text-align: center;
     font-size: 22px;
     padding-top: 30px;
+    margin-bottom: 20px;
+}
+
+p {
+    margin: 20px 0;
+}
+
+
+.imagem-capa {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.conteudo-adicional {
+    display: flex;
+    flex-direction: row;
 }
