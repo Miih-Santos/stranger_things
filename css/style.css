@@ -65,7 +65,9 @@ body{
 
 .temporadas{
     width: 100%;
-    background-color: green ;
+    background-size: cover;
+    background-image:url(../img/stranger-things-banner-temp.png);
+    background-repeat: no-repeat;
     height: 200px;
 }
 
